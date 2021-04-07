@@ -19,5 +19,5 @@ steps:
   displayName: 'Run a multi-line script'
 - task: PowerShell@2
   inputs:
-    filePath: 'https://github.com/haotran100/helloworld/blob/main/helloworld.ps1'
+    filePath: 'helloworld.ps1'
     errorActionPreference: 'continue'
