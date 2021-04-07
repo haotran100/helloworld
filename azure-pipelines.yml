@@ -21,3 +21,7 @@ steps:
   inputs:
     filePath: 'helloworld.ps1'
     errorActionPreference: 'continue'
+- task: PythonScript@0
+  inputs:
+    scriptSource: 'filePath'
+    scriptPath: 'helloworld.py'
