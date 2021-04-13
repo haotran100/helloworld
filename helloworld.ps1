@@ -1,1 +1,1 @@
-Write-Host "Hello World from github - PowerShell"
+Write-Host "Hello World from github - PowerShell script"
