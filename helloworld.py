@@ -1,1 +1,1 @@
-print("Hello world from github - Python \n")
+print("Hello world from github - Python script \n")
